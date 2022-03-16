@@ -1,3 +1,3 @@
 export class Uni {
-    name: string;
+    nqmaDaSeSchupi: string;
 }
